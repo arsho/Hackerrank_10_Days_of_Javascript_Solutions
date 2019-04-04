@@ -1,8 +1,3 @@
-## Hackerrank 30 Days of Code Solutions
-Hackerrank [10-days-of-javascript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript) solutions
-
-The following table contains solution URLs:
-
 | Challenge | Solution |
 | --- | --- |
 | Day 0: Hello, World! | [Solution](solutions/Day0_HelloWorld) |
@@ -30,9 +25,3 @@ The following table contains solution URLs:
 | Day 8: Create a Button | [Solution](solutions/Day8_CreateaButton) |
 | Day 8: Buttons Container | [Solution](solutions/Day8_ButtonsContainer) |
 | Day 9: Binary Calculator | [Solution](solutions/Day9_BinaryCalculator) |
-
-### Footnote
-- Solutions are written by [Ahmedur Rahman Shovon](https://arshovon.com).
-- The blank solution files are created using this [utility written in Python 3](HackerrankUtility/Utility.py)
-- These are not meant to be the best solutions for the challenges.
-- If you have better solutions make a pull request. :dart: :muscle: :octocat:
