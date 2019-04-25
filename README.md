@@ -1,7 +1,4 @@
-## Hackerrank 30 Days of Code Solutions
-Hackerrank [10-days-of-javascript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript) solutions
-
-The following table contains solution URLs:
+## Hackerrank [10-days-of-javascript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript) Solutions
 
 | Challenge | Solution |
 | --- | --- |
@@ -33,6 +30,6 @@ The following table contains solution URLs:
 
 ### Footnote
 - Solutions are written by [Ahmedur Rahman Shovon](https://arshovon.com).
-- The blank solution files are created using this [utility written in Python 3](HackerrankUtility/Utility.py)
+- The blank solution files are created using this [utility written in Python 3](HackerrankUtility/Utility.py).
 - These are not meant to be the best solutions for the challenges.
-- If you have better solutions make a pull request. :dart: :muscle: :octocat:
+- If you have better solutions create a pull request. :dart: :muscle: :octocat:
