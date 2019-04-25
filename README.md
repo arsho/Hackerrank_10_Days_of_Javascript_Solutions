@@ -1,4 +1,6 @@
-## Hackerrank [10-days-of-javascript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript) Solutions
+## Hackerrank [10 Days of Javascript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript) Solutions
+
+![alt Hackerrank 10 Days of Javascript](screenshot/Hackerrank_10_Days_of_Javascript.png)
 
 | Challenge | Solution |
 | --- | --- |
