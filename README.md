@@ -2,6 +2,8 @@
 
 ![alt Hackerrank 10 Days of Javascript](screenshot/Hackerrank_10_Days_of_Javascript.png)
 
+The following table contains ordered list of solutions.
+
 | Challenge | Solution |
 | --- | --- |
 | Day 0: Hello, World! | [Solution](solutions/Day0_HelloWorld) |
